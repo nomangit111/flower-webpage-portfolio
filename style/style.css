@@ -1,0 +1,118 @@
+
+.alu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 100vh;
+    font-size: 40px;
+    padding-left: 110px;
+   
+}
+.alu .loading{
+    width: 500px;
+}
+
+.lobon{
+    font-size: 120px;
+}
+.mini-row{
+    font-size: 30px;
+}
+.peyaz{
+padding: 100px;
+width: 50%;
+}
+.khejur{
+display:flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+
+}
+.red{
+    color: #E55473;
+}
+.banner-container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+   margin-top: 200px;
+   width:auto;
+   padding-left: 400px;
+    background-color: rgba(229, 84, 115, 0.10);
+   
+
+    
+}
+.banner{
+    font-size: 30px;
+   
+}
+
+.mini-text{
+   font-size: 18px;
+}
+.btn-bn{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+
+ 
+}
+.picture{
+    display: flex;
+   margin: 100px;
+   width: auto;
+   padding-right: 400px;
+}
+.senter-site{
+    text-align: center;
+    align-items: center;
+   margin: 230px;
+   font-size: 50px;
+
+}
+.font-low{
+    font-size: 23px;
+   
+}
+.round-four{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   
+   
+}
+.box{
+    display: flex;
+  justify-content: space-around;
+ 
+}
+.last-banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 800;
+    margin: 200px;
+    
+}
+.lite{
+    margin:30px;
+}
+
+
